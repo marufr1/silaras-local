@@ -1,0 +1,8 @@
+node_modules
+/public/uploads/*
+/public/uploads/*.xlsx
+/public/uploads/*.txt
+/public/generated-dir/Monthly*
+/public/generated-dir/excel/*
+/public/generated-dir/*.txt
+/public/uploads/*.json
